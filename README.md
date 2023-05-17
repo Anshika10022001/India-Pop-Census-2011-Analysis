@@ -1,11 +1,11 @@
 ![App Screenshot](https://img.jagranjosh.com/imported/images/E/GK/population-census-2021.jpg)
 
 # India Population Census 2011 Analysis
-### Project Description
+## Project Description
 
 Aimed to analyze the Indian population census of 2011 and created Power BI Dashboard showing useful insights.
 
-### Overview
+## Overview
  
  - The Census 2011 is the 15th National census survey conducted by the Census Organization of India. Mr. C. Chandramouli is the Commissioner & Registrar General of the Indian 2011 Census. The 2011 Indian National Census has been conducted in 2 phases - house listing and population. The national census survey covered all the 28 states of the country and 7 Union territories including 640 districts, 497 cities, 5767 tehsils & over 6 lakh villages.
 - he Indian Population Census 2011 covered a number of parameters during the survey. These parameters include population, growth rate in population, rate of literacy, density of population, sex ratio and child sex ratio (0-6 years). According to the census reports of Indian Census 2011, the population of India is 1,210,854,977 with 623, 724, 248 males and 586,469, 174 females. The total literacy rate in the country at present is 74.04%. The density of population is 382 persons/sq.km. In regards to sex ratio, at present there are 940 females on average on per 1000 males and the child sex ratio is 914 females per 1000 males.
@@ -15,7 +15,7 @@ Aimed to analyze the Indian population census of 2011 and created Power BI Dashb
 
 - Data Gathering: Collected the releveant data from [Census 2011 India](https://www.census2011.co.in/states.php) into the MS Excel
 - Data preparation: The project involved using SQL aggregations to prepare and clean data for analysis. This included aggregating data from multiple sources and tables, filtering out irrelevant information, and performing calculations to derive meaningful insights.
-### The whole code can be seen from the pdf file created in this repository [SQL Analysis Coding](https://github.com/Anshika10022001/India-Pop-Census-2011-Analysis/blob/main/INDIA%20CENSUS%20SQL.pdf)
+### The whole code can be seen step by step in the pdf file created in this repository [SQL Analysis Coding](https://github.com/Anshika10022001/India-Pop-Census-2011-Analysis/blob/main/INDIA%20CENSUS%20SQL.pdf)
 
 ## The Insights
 - Population analysis: The project involved analyzing the population of different states in India, including their size, growth rate, and demographic makeup. This analysis was based on data obtained from reliable sources and was used to identify trends and patterns in population growth and distribution. The total population of India came out to be 1186 M
