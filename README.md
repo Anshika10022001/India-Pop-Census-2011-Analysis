@@ -15,7 +15,7 @@ Aimed to analyze the Indian population census of 2011 and created Power BI Dashb
 
 - Data Gathering: Collected the releveant data from [Census 2011 India](https://www.census2011.co.in/states.php) into the MS Excel
 - Data preparation: The project involved using SQL aggregations to prepare and clean data for analysis. This included aggregating data from multiple sources and tables, filtering out irrelevant information, and performing calculations to derive meaningful insights.
-### The whole code can be seen step by step in the pdf file created in this repository [SQL Analysis Coding](https://github.com/Anshika10022001/India-Pop-Census-2011-Analysis/blob/main/INDIA%20CENSUS%20SQL.pdf)
+### The whole code can be seen step by step in the pdf file created in this repository [SQL Analysis](https://github.com/Anshika10022001/India-Pop-Census-2011-Analysis/blob/main/Code/INDIA%20CENSUS%20SQL.pdf)
 
 ## The Insights
 - Population analysis: The project involved analyzing the population of different states in India, including their size, growth rate, and demographic makeup. This analysis was based on data obtained from reliable sources and was used to identify trends and patterns in population growth and distribution. The total population of India came out to be 1186 M
