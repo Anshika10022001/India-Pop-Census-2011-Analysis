@@ -64,9 +64,32 @@ The following report was successfully created in Microsoft PowerBI.
 
 ## Tech Stack
 
-**My SQL:** Aggregations, joins, Window Functions, Complex Calculations
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Aggregations, joins, Window Functions, Complex Calculations
+    </td>
+  </tr>
+</table>
 
-**Microsoft PowerBI:** Data Cleaning, Power Query, Dashboarding, Visualizations
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Data Cleaning, Power Query, Dashboarding, Visualizations
+    </td>
+  </tr>
+</table>
+
 
 ## Limitations/Challenges
 - The project proceeded smoothly without any significant challenges.
